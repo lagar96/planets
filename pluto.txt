@@ -1,1 +1,7 @@
-This collab fire.
+<<<<<<< HEAD
+This collab it's so fireeeeeeee
+=======
+Supp 
+
+
+>>>>>>> 1870eaf3f7dad79a7ddea7eefdac5ea7a25a54cf
